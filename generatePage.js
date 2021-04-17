@@ -28,7 +28,7 @@ function generateCard(data) {
               </div>
               <ul class="list-group list-group-flush">
                 <li class="list-group-item">
-                <a href ="mailto:Employee Email: ${email}">${email}</a>
+                <a href ="mailto:${email}">Employee Email: {email}</a>
                 </li>
                 <li class="list-group-item">Employee ID: ${id}</li>
                 <li class="list-group-item">Manger Office Number: ${office}</li>
@@ -56,7 +56,7 @@ function generateCard(data) {
               </div>
               <ul class="list-group list-group-flush">
               <li class="list-group-item"> 
-              <a href ="mailto:Employee Email: ${email}">${email}</a>
+              <a href ="mailto:${email}">Employee Email: ${email}</a>
               </li>
                 <li class="list-group-item">Employee ID: ${id}</li>
                 <li class="list-group-item">Intern School: ${school}</li>
@@ -83,7 +83,7 @@ function generateCard(data) {
               </div>
               <ul class="list-group list-group-flush">
              <li class="list-group-item"> 
-             <a href ="mailto:Employee Email: ${email}">${email}</a> 
+             <a href ="mailto:${email}">Employee Email: ${email}</a> 
              </li>
                 <li class="list-group-item">Employee ID: ${id}</li>
                 <li class="list-group-item">
