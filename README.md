@@ -27,5 +27,5 @@ This repository contains a Node.js project which creates an Employee roster from
 Matthew Lemke: Mattrlemke@gmail.com
 
 ## Link To Video On How This Project Works
-[Link To video on how this works](https://drive.google.com/file/d/1wLGUHUrERy-n2MkRVjap14IX8xirpzju/view`)
+[Link To video on how this works](https://drive.google.com/file/d/1wLGUHUrERy-n2MkRVjap14IX8xirpzju/view)
 
