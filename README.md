@@ -3,7 +3,7 @@
 ## This Repository
 This repository contains a Node.js project which creates an Employee roster from the command line.
 
-![Image of Game Start Page](https://github.com/MLemke24/Group-10/blob/main/assets/screencapture-mlemke24-github-io-Group-10-2021-04-04-07_27_57%20(2).png)
+![Image of Sample HTML](https://github.com/MLemke24/Employee-Profile-Generator/blob/main/assets/screencapture-file-Users-matthewlemke-Desktop-Projects-Employee-Profile-Generator-index-html-2021-04-16-21_54_00.jpg?raw=true)
 
 
 ## Languages Used
