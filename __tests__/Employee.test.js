@@ -1,12 +1,12 @@
 const Employee = require('../lib/Employee');
 
 test('employee object', () => {
-    const employee = new Employee('Matt', '1020', 'matt@matt.com', 'manager')
+    const employee = new Employee('Matt', '1020', 'matt@matt.com')
 
     expect(employee.name).toBe('Matt')
     expect(employee.id).toBe('1020')
     expect(employee.email).toBe('matt@matt.com')
-    expect(employee.role).toBe('manager')
+    expect(employee.getRole()).toBe('employee')
     
 });
 
@@ -26,8 +26,8 @@ test('for employee id', () => {
 });
 
 test('for employee role', () => {
-    const employee = new Employee('Matt', '1020', 'matt@matt.com', 'manager')
-    expect(employee.getRole()).toEqual(expect.stringContaining('manager'));
+    const employee = new Employee('Matt', '1020', 'matt@matt.com')
+    expect(employee.getRole()).toEqual(expect.stringContaining('employee'));
 });
 
 
